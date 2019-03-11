@@ -1,0 +1,14 @@
+After connecting in FileZilla, go to the following steps:-
+
+1) In site, packages-upload packages - (as usual)
+   Then at the time of uploading the file, don't upload there, and  choose upload via FTP
+   Then make clear the details of the file we are uploading is correct there.-Click Upload.
+
+2) A link/path willbe displayed in that page itself, keep that path.
+   In fileZilla, In remote site section,go to that path(it may be inside the folder named laravel).
+   After reaching the inner folder,then doble-click the file from filename section in the left side.
+   It will complete uploading in sometime.
+
+3) After uploading it , go to site(miletoneit.net) ,packages-verify packages- click verify.
+
+4) After verifying, do the approval as usual from package-approve package

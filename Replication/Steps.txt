@@ -1,0 +1,14 @@
+Step1: Run Replication wizard in headquarters
+
+Step2: Take backup of Headoffice
+
+Step3: Install software in showroom with backup
+
+Step4: Run Distributed client in showroom
+
+Step5: Run replication wizard in showroom
+
+Step6: Change settings of replication in programdata
+
+Step7: Run Eplus Replication
+
